@@ -6,7 +6,7 @@ import {Balance} from './Components/Balance.js';
 import {AccountSummary} from './Components/AccountSummary.js';
 import {TransactionHistory} from './Components/TransactionHistory.js';
 import {AddTransaction} from './Components/AddTransaction.js';
-import { GlobalProvider } from './Components/context/GlobalState';
+import { GlobalProvider } from './context/GlobalState';
 
 function App() {
   return (
