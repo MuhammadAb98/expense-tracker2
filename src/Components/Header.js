@@ -1,14 +1,14 @@
- import React from 'react';
+import React from 'react'
 
- export const Header = ()=>{
-return (
-
-<h1>Expense Tracker</h1>
-
-)
-
+export const Header = () => {
+    return (
+        <div>
+        <h2>
+            Expense Tracker 
+        </h2>
+        <h6>Muhammad Abdullah</h6>
+        </div>
+        
+    )
 }
-
-
-
 
