@@ -56,7 +56,7 @@ export const AddTransaction = () => {
 
                 </div>
                 <button className="btn">Add Transaction</button>
-                <button className="btn">CLEAR</button>
+                
             </form>
         </div>
     )
